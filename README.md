@@ -1,49 +1,55 @@
-<h1>DevOps Simulator</h1>
-A comprehensive CI/CD configuration management tool for enterprise deployments.<br>
-(Includes optional AI-powered experimental features for advanced testing.)
+# **DevOps Simulator**
 
-<h2>Project Status</h2>
-Version: 1.0.0 (Production), 2.0.0-beta (Development), 3.0.0-experimental (Testing)<br>
-Environments: Production, Development, Experimental<br>
-Student: [YOUR NAME]<br>
-Student ID: [YOUR ID]<br>
-Maintainer: DevOps Innovation Team
+A comprehensive CI/CD configuration management tool for enterprise deployments.  
+*Includes optional AI-powered experimental features for advanced testing.*
 
-<h2>Features</h2>
+---
 
-<h3>Core Features</h3>
-Automated deployment scripts<br>
-Real-time monitoring<br>
-Configuration management<br>
-Backup and recovery system
+## **Project Status**
+- **Version:** 1.0.0 (Production), 2.0.0-beta (Development), 3.0.0-experimental (Testing)
+- **Environments:** Production, Development, Experimental
+- **Student:** Madhavi Geddamuri
+- **Student ID:** 23A91A4419
+- **Maintainer:** DevOps Innovation Team
 
-<h3>Production Features</h3>
-SSL/TLS encryption<br>
-Auto-scaling<br>
-Load balancer integration<br>
-Scheduled backups
+---
 
-<h3>Development Features (Beta)</h3>
-Docker Compose integration<br>
-Hot reload enabled<br>
-Debug mode active<br>
-Enhanced logging<br>
-Mock external APIs
+## **Features**
 
-<h3>⚙️ Experimental (AI) Features</h3>
-⚠️ Experimental mode is for testing and not production-ready.<br><br>
+### **Core Features**
+- Automated deployment scripts  
+- Real-time monitoring  
+- Configuration management  
+- Backup and recovery system  
 
-🤖 AI-powered deployment optimization<br>
-🌐 Multi-cloud orchestration (AWS, Azure, GCP, DigitalOcean)<br>
-📈 Predictive scaling with machine learning<br>
-🔒 Zero-trust security architecture<br>
-🌊 Event-driven architecture<br>
-🎯 Chaos engineering tools
+### **Production Features**
+- SSL/TLS encryption  
+- Auto-scaling  
+- Load balancer integration  
+- Scheduled backups  
 
-<h2>Quick Start</h2>
-Production Mode<br>
-<code>export DEPLOY_ENV=production</code><br>
-<code>./scripts/deploy.sh</code>
+### **Development Features (Beta)**
+- Docker Compose integration  
+- Hot reload enabled  
+- Debug mode active  
+- Enhanced logging  
+- Mock external APIs  
 
-<h2>## FAQ</h2>
-update
+### ⚙️ **Experimental (AI) Features**
+⚠️ *Experimental mode is for testing and not production-ready.*
+
+- 🤖 AI-powered deployment optimization  
+- 🌐 Multi-cloud orchestration (AWS, Azure, GCP, DigitalOcean)  
+- 📈 Predictive scaling with machine learning  
+- 🔒 Zero-trust security architecture  
+- 🌊 Event-driven architecture  
+- 🎯 Chaos engineering tools  
+
+---
+
+## **Quick Start**
+
+### **Production Mode**
+```bash
+export DEPLOY_ENV=production
+./scripts/deploy.sh
