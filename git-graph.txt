@@ -1,12 +1,60 @@
-* 8c96124 (HEAD -> main, origin/main) docs: Add changelog
-* 88167f1 docs: Add GIT_JOURNEY.md documentation
-| * f8cdd8f (feature/another-feature) Bad commit
-| * 33f3190 (origin/feature/another-feature) feat: Add test feature
-|/  
-* c0e0803 (tag: v1.1.0, tag: v1.0.0) docs: Update README
-* 7dd7793 feat: Add new feature
-* 52f2599 docs: Add FAQ section
-| * 0b4e4c8 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+* c98fbf3 (HEAD -> main, origin/main) Added FAQ update section
+* 1d1c8b6 Added FAQ update section
+* 5ecdf5c Added FAQ update section
+* f716fed Added FAQ update section
+* 65d7e57 Added FAQ update section
+* fcdb4ad Added FAQ update section
+* 1ba2b3d Added FAQ update section
+* 1d750e1 Formatted FAQ section
+* ab88276 Added FAQ update section
+* ca88a0e Updated README with formatted sections
+* 86919a2 Updated README with formatted sections
+* dbbea2f Updated README with big and small headings
+* 9d98791 Added full DevOps Simulator README
+* 283fb84 Added full DevOps Simulator README
+* 9f08d0f docs: Final updates for submission
+* 73726b8 docs: Add final project artifacts
+* 1bead3d docs: Add changelog
+* 362251a docs: Add GIT_JOURNEY.md documentation
+| * 2a70a4f docs: Final updates for submission
+| * ee95818 docs: Add final project artifacts
+| * 8c96124 docs: Add changelog
+| * 88167f1 docs: Add GIT_JOURNEY.md documentation
+| | * 1cd1f79 (feature/another-feature) Bad commit
+| | * d0c9b68 feat: Add test feature
+| |/  
+|/|   
+* | 4580a55 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* | b249bbb feat: Add new feature
+* | b698a45 docs: Add FAQ section
+| | * f8cdd8f Bad commit
+| | * 33f3190 (origin/feature/another-feature) feat: Add test feature
+| |/  
+| * c0e0803 docs: Update README
+| * 7dd7793 feat: Add new feature
+| * 52f2599 docs: Add FAQ section
+| | * 95482e3 (feature/new-feature) feat: Add new feature
+| |/  
+|/|   
+* | 497d3f6 Added deployment and monitoring scripts from instructor branch
+* | df10171 Added database config and architecture documentation from instructor branch
+* | 05ed6e8 Added missing config and gitignore files from instructor branch
+* | f098574 Aligned README with instructor/main to remove experimental sections
+* | 92588d3 Add new assets and index.js
+* | 82916ca Update package.json
+* |   d7f06d6 Merge branch 'conflict-simulator'
+|\ \  
+| * | 5fb822a (conflict-simulator) updating conflict-simulator
+* | |   c28ca17 Merge branch 'dev'
+|\ \ \  
+| * | | a9b53b0 (dev) updating dev
+| |/ /  
+* | | c6e5a1d updating main
+* | | 0cba602 Revise README for DevOps Simulator project
+|/ /  
+* / 109c568 Initial commit
+ /  
+| * 0b4e4c8 (origin/feature/new-feature) feat: Add new feature
 |/  
 * 79fdfd8 Added deployment and monitoring scripts from instructor branch
 * ad38678 Added database config and architecture documentation from instructor branch
@@ -16,10 +64,10 @@
 * a6bb391 Update package.json
 *   b7c9ea3 Merge branch 'conflict-simulator'
 |\  
-| * d3dd9b2 (origin/conflict-simulator, instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+| * d3dd9b2 (origin/conflict-simulator, instructor/conflict-simulator) updating conflict-simulator
 * |   c0a246b Merge branch 'dev'
 |\ \  
-| * | 02011a5 (origin/dev, instructor/dev, dev) updating dev
+| * | 02011a5 (origin/dev, instructor/dev) updating dev
 | |/  
 * | 0312c6f (instructor/main, instructor/HEAD) updating main
 * | fadfd24 Revise README for DevOps Simulator project
